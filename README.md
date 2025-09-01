@@ -1,4 +1,4 @@
-# Movie Rental Store Analytics Capstone
+# Movie Rental Store Analytics 
 
 ![Screenshot 2024-04-06 105628](https://github.com/virajbhutada/PowerBI-Projects/assets/143819712/c1ae307e-2a62-466d-9f3c-33ed614eb8fc)
 
